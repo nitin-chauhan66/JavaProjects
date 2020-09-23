@@ -1,2 +1,2 @@
-# JavaProjects
-These are the code sample for java servlet
+# Wallet App using JSP
+This is build using java beans,jsp,mysql
